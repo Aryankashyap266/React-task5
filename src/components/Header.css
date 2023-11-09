@@ -1,0 +1,13 @@
+/* Add this CSS to your stylesheets or inline style in your component */
+header {
+
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin: 0;
+  }
+  
